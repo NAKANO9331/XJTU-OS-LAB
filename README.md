@@ -1,4 +1,5 @@
 ﻿# XJTU-OS-LAB
 
-SDN Lab: Spring 2025 Course Experiments
+XJTU-OS-LAB: Autumn 2024 Operating System Lab 
+
 
